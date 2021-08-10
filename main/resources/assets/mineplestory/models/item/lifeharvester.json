@@ -1,0 +1,6 @@
+{
+  "parent": "mineplestory:item/sword_base",
+  "textures": {
+    "layer0": "mineplestory:items/lifeharvester"
+  }
+}
